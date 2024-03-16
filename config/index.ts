@@ -7,7 +7,7 @@ export const APP_INFO: AppInfo = {
   description: '',
   copyright: '',
   privacy_policy: '',
-  default_language: 'en-US',
+  default_language: 'th-TH',
 }
 
 export const isShowPrompt = false
